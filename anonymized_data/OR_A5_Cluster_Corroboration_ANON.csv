@@ -1,0 +1,50 @@
+cluster_id,n_facilities,county,evidence_class,corroboration_result
+OR001,2,Clackamas,"Same officers, owners, or managers",Corroborated (control-related)
+OR002,2,Washington,"Same officers, owners, or managers",Corroborated (control-related)
+OR003,2,Washington,Same openly disclosed brand,Corroborated
+OR004,2,Washington,Same openly disclosed brand,Corroborated
+OR005,2,Clackamas,Same openly disclosed brand,Corroborated
+OR006,2,Clackamas,Same openly disclosed brand,Corroborated
+OR007,2,Washington,Same openly disclosed brand,Corroborated
+OR008,2,Washington,Same openly disclosed brand,Corroborated
+OR009,2,Washington,Same openly disclosed brand,Corroborated
+OR010,2,Washington,Same openly disclosed brand,Corroborated
+OR011,2,Clackamas,Indeterminate,Indeterminate
+OR012,2,Washington,Same openly disclosed brand,Corroborated
+OR013,2,Washington,"Same officers, owners, or managers",Corroborated (control-related)
+OR014,2,Washington,Same openly disclosed brand,Corroborated
+OR015,2,Washington,Same openly disclosed brand,Corroborated
+OR016,2,Washington,Same openly disclosed brand,Corroborated
+OR017,2,Clackamas,Same openly disclosed brand,Corroborated
+OR018,2,Washington,Same openly disclosed brand,Corroborated
+OR019,2,Clackamas,Same openly disclosed brand,Corroborated
+OR020,2,Washington,"Same officers, owners, or managers",Corroborated (control-related)
+OR021,2,Washington,Same openly disclosed brand,Corroborated
+OR022,2,Washington,Same openly disclosed brand,Corroborated
+OR023,2,Washington,Same openly disclosed brand,Corroborated
+OR024,2,Clackamas,Same openly disclosed brand,Corroborated
+OR025,2,Clackamas,"Same officers, owners, or managers",Corroborated (control-related)
+OR026,2,Clackamas,Same openly disclosed brand,Corroborated
+OR027,2,Washington,Same openly disclosed brand,Corroborated
+OR028,2,Clackamas,Same openly disclosed brand,Corroborated
+OR029,5,Clackamas/Washington,Same openly disclosed brand,Corroborated
+OR030,2,Clackamas,No public connection found,Not corroborated
+OR031,2,Clackamas,Same openly disclosed brand,Corroborated
+OR032,2,Clackamas,Same openly disclosed brand,Corroborated
+OR033,2,Clackamas,Same openly disclosed brand,Corroborated
+OR034,2,Clackamas,Same openly disclosed brand,Corroborated
+OR035,2,Clackamas,Same openly disclosed brand,Corroborated
+OR036,2,Washington,Same openly disclosed brand,Corroborated
+OR037,2,Clackamas,"Same officers, owners, or managers",Corroborated (control-related)
+OR038,2,Clackamas,"Same officers, owners, or managers",Corroborated (control-related)
+OR039,2,Washington,Same openly disclosed brand,Corroborated
+OR040,2,Washington,Same openly disclosed brand,Corroborated
+OR041,2,Clackamas,Same openly disclosed brand,Corroborated
+OR042,2,Washington,Same openly disclosed brand,Corroborated
+OR043,2,Washington,Same residential or business address only,Corroborated (administrative-linkage only)
+OR044,2,Washington,Same residential or business address only,Corroborated (administrative-linkage only)
+OR045,2,Clackamas,Same openly disclosed brand,Corroborated
+OR046,2,Washington,"Same officers, owners, or managers",Corroborated (control-related)
+OR047,2,Clackamas,Same legal entity,Corroborated (direct)
+OR048,2,Clackamas,Same openly disclosed brand,Corroborated
+OR049,2,Washington,Same openly disclosed brand,Corroborated

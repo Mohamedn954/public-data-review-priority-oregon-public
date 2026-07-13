@@ -1,0 +1,3 @@
+County,facilities,beds,avg_beds,w_enforcement,w_investigations,w_stop_placement,w_conditions,civil_fines,pct_of_2county_facilities,enforcement_rate_pct,investigation_rate_pct
+Clackamas,324,5661,17.47222222222222,61,88,0,61,0,40.9,18.8,27.2
+Washington,468,7162,15.303418803418804,88,133,0,87,1,59.1,18.8,28.4

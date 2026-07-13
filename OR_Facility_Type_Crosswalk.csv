@@ -1,0 +1,8 @@
+Raw_Specialty,Base_Facility_Type,Facility_Count,Note
+AFH,AFH,629,Adult Foster Home (Oregon's official term); no memory-care endorsement variant observed in this dataset
+ALF,ALF,59,Assisted Living Facility
+"ALF, Memory Care",ALF,1,Assisted Living Facility with a memory-care endorsement
+RCF,RCF,17,Residential Care Facility
+"RCF, Memory Care",RCF,64,Residential Care Facility with a memory-care endorsement
+NF,NF,20,Nursing Facility
+"NF, Memory Care",NF,2,Nursing Facility with a memory-care endorsement

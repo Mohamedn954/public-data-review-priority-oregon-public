@@ -1,0 +1,31 @@
+cff-version: 1.2.0
+message: "If you use this manuscript or replication package, please cite it as below."
+title: "Can Public Long-Term-Care Oversight Methods Travel Across States? A Two-County Oregon Cross-State Applicability Study"
+type: dataset
+authors:
+  - family-names: Hussein
+    given-names: Mohamed Noor
+date-released: 2026-07-19
+version: "1.1"
+repository-code: "https://github.com/Mohamedn954/public-data-review-priority-oregon-public"
+license: CC-BY-4.0
+keywords:
+  - Medicaid program integrity
+  - Adult Foster Homes
+  - long-term care oversight
+  - Oregon
+  - cross-state applicability
+  - public-data review priority
+  - replication package
+abstract: >
+  A public, journal-safe replication package for a working paper testing the
+  cross-state portability of a 20-indicator public-data review-priority
+  framework originally developed and piloted for Washington State's Adult
+  Family Home sector. Applies the framework's core merge, normalization,
+  clustering, and threshold logic, after Oregon-specific schema
+  harmonization, to Clackamas and Washington County, Oregon, across all four
+  Oregon-licensed residential facility types. Includes a de-identified
+  facility-level replication dataset, portable analysis scripts, and an
+  eight-tier evidentiary classification of all 20 indicators. This is a
+  methods-transfer and evidentiary-boundary study, not a fraud score,
+  validated predictive model, or enforcement tool.

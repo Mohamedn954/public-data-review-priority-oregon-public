@@ -1,0 +1,11 @@
+.DS_Store
+__pycache__/
+*.pyc
+~$*.doc*
+
+# Present locally for convenience, but intentionally not pushed to the public
+# repo; the private companion repository (public-data-review-priority-oregon)
+# is the tracked home for these.
+/OR_Standalone_Policy_Paper.md
+/OR_Standalone_Policy_Paper.docx
+/OR_Standalone_Policy_Paper.pdf
